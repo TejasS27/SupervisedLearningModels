@@ -3,19 +3,19 @@ This project demonstrates the implementation of a **Supervised Learning Model** 
 
 # Simple Linear Regression"
 
-# 🍔 McDonald's Wage vs Big Mac Price Analysis
+# McDonald's Wage vs Big Mac Price Analysis
 
 This project explores the relationship between **New Hourly Wages** and **Big Mac Prices** across different countries using **Simple Linear Regression**.
 
 ---
 
-## 📌 Objective
+## Objective
 
 To determine whether higher hourly wages correspond to higher Big Mac prices globally using statistical analysis and data visualization.
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 The dataset is sourced from a McDonald's cost and wage comparison sheet and includes:
 - `Country`
